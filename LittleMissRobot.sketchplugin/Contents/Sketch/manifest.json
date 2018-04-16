@@ -4,26 +4,26 @@
     {
       "name": "Reverse layer order",
       "identifier": "reverse-layer-order-identifier",
-      "script": "./reverse-layer-order.js",
-      "shortcut" : "ctrl cmd l"
+      "script": "reverse-layer-order.js",
+      "shortcut": "ctrl cmd l"
     },
     {
       "name": "Rename layers",
       "identifier": "rename-layers-identifier",
-      "script": "./rename-layers.js",
-      "shortcut" : "ctrl cmd r"
+      "script": "rename-layers.js",
+      "shortcut": "ctrl cmd r"
     },
     {
       "name": "Prefix layers",
       "identifier": "prefix-layers-identifier",
-      "script": "./prefix-layers.js",
-      "shortcut" : "ctrl cmd b"
+      "script": "prefix-layers.js",
+      "shortcut": "ctrl cmd b"
     },
     {
       "name": "Postfix layers",
       "identifier": "postfix-layers-identifier",
-      "script": "./postfix-layers.js",
-      "shortcut" : "ctrl cmd a"
+      "script": "postfix-layers.js",
+      "shortcut": "ctrl cmd a"
     }
   ],
   "menu": {
@@ -34,5 +34,11 @@
       "prefix-layers-identifier",
       "postfix-layers-identifier"
     ]
-  }
+  },
+  "version": "1.0.0",
+  "name": "Little Miss Robot SketchKit",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "Tycho Martins",
+  "authorEmail": "tycho@littlemissrobot.com"
 }

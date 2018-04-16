@@ -1,13 +1,13 @@
 {
-  "name": "myplugin",
-  "version": "0.1.0",
+  "name": "LittleMissRobot",
+  "version": "1.0.0",
   "engines": {
     "sketch": ">=3.0"
   },
   "skpm": {
-    "name": "MyPlugin",
+    "name": "Little Miss Robot SketchKit",
     "manifest": "src/manifest.json",
-    "main": "plugin.sketchplugin",
+    "main": "LittleMissRobot.sketchplugin",
     "assets": [
       "assets/**/*"
     ]
@@ -21,5 +21,8 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.2"
   },
-  "author": "Tycho Martins <tycho@littlemissrobot.com>"
+  "author": "Tycho Martins <tycho@littlemissrobot.com>",
+  "dependencies": {
+    "sketch-module-web-view": "^1.1.3"
+  }
 }
