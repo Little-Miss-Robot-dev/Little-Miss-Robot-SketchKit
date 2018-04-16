@@ -1,9 +1,9 @@
 # Little Miss Robot SketchKit
 
-During the fixit friday we used the sketch developer kit to get started on our first sketch plugin. We built a small plugin to discover the possibilities and to get some of the batch work we do in sketch done in mear seconds.
+During the fixit friday we used the sketch developer kit to get started on our first sketch plugin. We built a small plugin to discover the possibilities and to get some of the batch work we do in sketch done in mere seconds.
 
 ## Reverse the order of your layers
-Very handy for quickly reversing the order of your layers, groups or the order of your artboards in the sketchfile.
+When you duplicate or copy a layer in sketch that layer will be stacked on top of the previous layers. For a form this would mean the first inputfield shows at the bottom of your layers and the submit at the top. With this small piece of code we're able to quickly reverse the layer depth order of all the selected layers.
 
 ![Reverse the order of your layers](https://raw.githubusercontent.com/Little-Miss-Robot/Little-Miss-Robot-SketchKit/master/img/re-order.gif)
 
