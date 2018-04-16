@@ -1,4 +1,6 @@
-# MyPlugin
+# Little Miss Robot SketchKit
+
+During the fixit friday we used the sketch developer kit to get started on our first sketch plugin. We built a small plugin to discover the possibilities and to get some of the batch work we do in sketch done in mear seconds.
 
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
 
