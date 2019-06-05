@@ -37,6 +37,7 @@
   },
   "version": "1.0.0",
   "name": "Little Miss Robot SketchKit",
+  "identifier": "Little Miss Robot SketchKit",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
   "author": "Tycho Martins",
